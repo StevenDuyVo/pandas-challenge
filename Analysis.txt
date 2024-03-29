@@ -1,0 +1,16 @@
+Summary Analysis
+PyCity School analysis gives data on multiple public and charter schools such as their student population and budget.
+It also gives further detailed information the overall student population, such as their grade level, gender, reading scores, and math scores.
+Through this analysis, we have summarized each of the schools' student population, budget, and percentage passing math and reading. 
+	For example, Rodriguez High School (District) is the worst school in percentage of students overall passing both math and reading.
+	While Cabrera High School (Charter) has the highest percentage of students overall passing in math and reading. 
+We have also determined the percentage of budget spent per student by each of the schools and how it correllates to their grades. 
+As well as the scores based on school population and school type.
+
+Conclusions
+By far, charter school students have the best overall percentage in passing both math and reading.
+We know that it is related to the size of the school, as the schools in the top 5 are either medium or smaller sized schools.
+However, it does not mean that the size of the school directly corellates to overall percentage passing,
+as even the smallest charter school falls in 5th place in terms of percantage passing.
+
+We also conclude that the school spending range in students tend to result in a lower overall passing scores.
